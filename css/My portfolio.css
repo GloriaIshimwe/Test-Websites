@@ -1,0 +1,57 @@
+html{
+    background-color: silver;
+}
+.all{
+  
+    height: 670px; 
+    width: 1600px; 
+    margin-top: 2px; 
+    padding: auto; 
+    font-family: 'century schoolbook'
+}
+section{
+    font-family: 'century schoolbook';
+    margin-top: 50px;
+    font-size: 20; 
+}
+h1{
+    text-align: center;
+    font-family: 'century schoolbook';
+    margin-top: 30px; 
+}
+img{
+    height: 400px;     
+    margin-top:30px; 
+}
+button{
+    margin-top:30px; 
+    float:center;
+    text-align:center; 
+    background-color:azure; 
+    align-content:center;
+}
+h2{
+color: slategray;
+}
+footer{
+    margin-bottom:0px; 
+    margin-top:100px;
+    border-top:1px solid grey; 
+    width:700px; 
+    float:center; 
+}
+.two{
+    color:rgb(83, 81, 81);
+    text-align:center; 
+    font-size:17; 
+    text-shadow:sandybrown; 
+}
+a{
+    text-decoration:none; 
+    color:midnightblue; 
+}
+a:hover{          
+    color:black; 
+    enable-background:40px; 
+   
+}

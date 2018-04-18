@@ -1,0 +1,19 @@
+.table1 td{
+    padding-top: 20px; 
+}
+#password, #confirm, #date{
+    background-color: pink; 
+    border-color: brown; 
+}
+.table1{
+    margin: 100px; 
+}
+#password, #confirm, #date, #website, #email, #name{
+    width: 200px; 
+}
+#image{
+    Width: 150px; 
+}
+#button{
+    width: 50px; 
+}

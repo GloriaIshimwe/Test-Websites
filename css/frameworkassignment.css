@@ -1,0 +1,30 @@
+}
+.class1{
+    background-color: rgb(255, 0, 170); 
+}
+nav li{
+    display: inline; 
+    margin-left: 0px; 
+    margin-right: 5px; 
+    padding-left: 0px; 
+}
+aside{
+    margin-left: 200px;    
+}
+.class3{
+    margin-top: 20px; 
+}
+.all{
+    background-color: blanchedalmond;  
+    margin: 30px auto; 
+    height: 500px; 
+}
+.main{
+    background-color: beige; 
+    padding-left: 0px; 
+    margin-left: 0px; 
+}
+aside li{
+    padding-left: 0px; 
+    margin-left: 0px; 
+}

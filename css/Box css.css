@@ -1,0 +1,26 @@
+.box{
+    width: 350px;
+    height: 350px;
+    background-color: red; 
+    margin: auto; 
+    position: relative;
+    top: 100px;
+}
+.secondbox{
+    width:250px; 
+    height:250px; 
+    background-color: blue;
+    margin:auto; 
+    position: absolute;
+    top: 30px; left: 50px; 
+    
+}
+.thirdbox{
+    width:100px; 
+    height:100px;
+    background-color: green; 
+    margin:auto; 
+    position: absolute;
+    top:35px; left: 0px; 
+
+}

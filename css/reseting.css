@@ -1,0 +1,23 @@
+.wrap{
+    background-color: red; 
+}
+nav li{
+    display: inline; 
+    margin-left: 0px; 
+    margin-right: 40px; 
+}
+aside{
+    background-color: green; 
+}
+.primary{
+    background-color: grey; 
+}
+.main{
+    margin: 30Px 0px;
+}
+alpha{
+    margin-left: 0px; 
+}
+omega{
+    margin-right: 0px; 
+}

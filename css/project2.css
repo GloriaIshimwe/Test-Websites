@@ -1,0 +1,61 @@
+header h1{
+	margin-top: 5px; 
+}
+aside{
+    background-color: black;     
+    height: 550px;         
+    color: white;      
+}
+.first{
+    margin-top: 19px;     
+}
+img{
+    width: 700px; 
+}
+aside a{
+    color: white; 
+    text-decoration: none; 
+}
+aside ul{
+    padding-left: 5px;
+ }    
+nav li{
+    display:inline;
+}
+nav ul{
+    margin-right: 0px; 
+}
+nav a{
+    text-decoration: none; 
+    color:grey;	
+}
+a:hover {
+    color:black; 
+}
+h1 b{
+    color: grey; 
+}
+.rest h2{
+    padding-left: 8px; 
+}
+.rest li{
+    padding-bottom: 5px; 
+}
+nav ul{
+	float: right; 
+	text-align: right; 
+}
+.first h3{
+    border-bottom: 1px solid grey; 
+    padding-bottom: 20px; 
+}
+footer {
+    margin-top: 20px;   
+    border-top: 1px solid grey; 
+}
+footer a{
+	text-decoration: none; 
+	color:grey;	
+}
+
+

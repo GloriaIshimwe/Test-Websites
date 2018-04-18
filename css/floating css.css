@@ -1,0 +1,31 @@
+.All {
+    width: 60%; 
+    margin: auto;
+    min-width: 400px;
+    background-color: green; 
+    overflow: hidden; 
+}
+.Main {
+    background-color: red; 
+    float: left; 
+    width: 70%; 
+}
+a {
+    text-decoration: none; 
+}
+a:hover {
+    text-decoration: underline; 
+}
+Aside {
+    background-color: brown; 
+    float: left;
+    width: 30%
+}
+.Main, aside {
+    Height: 500px; 
+}
+Aside ul {    
+    list-style: none; 
+    padding-left: 0px; 
+    margin: auto; 
+}
